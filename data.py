@@ -1,0 +1,50 @@
+BASE_URL = 'https://stellarburgers.nomoreparties.site/'
+
+USER_CREATE_URL = 'api/auth/register'
+USER_DELETE_URL = 'api/auth/user'
+USER_REGISTRED_URL = 'api/auth/register'
+USER_LOGIN_URL = 'api/auth/login'
+USER_LOGOUT_URL = 'api/auth/logout'
+USER_EDIT_DATA_URL = 'api/auth/user'
+
+GET_INGREDIENT_INFO_URL = 'api/ingredients'
+
+ORDER_CREATE_URL = 'api/orders'
+GET_USER_ORDERS = 'api/orders'
+
+CODE_OK = 200
+MSG_TRUE = True
+MSG_USER_EXIST = 'User already exists'
+CODE_USER_EXIST = 403
+MSG_EMPTY_REQUIRED_PARAM = 'Email, password and name are required fields'
+CODE_EMPTY_REQUIRED_PARAM = 403
+
+CODE_EXIST_USER_LOGIN = 200
+MSG_EXIST_USER_LOGIN = True
+
+MSG_AUTORIZED_USER_EDIT = True
+CODE_AUTORIZED_USER_EDIT = 200
+
+MSG_UNAUTORIZED_USER_EDIT = False
+CODE_UNAUTORIZED_USER_EDIT = 401
+
+CODE_FAKE_USER_LOGIN = 401
+MSG_FAKE_USER_LOGIN = 'email or password are incorrect'
+
+CODE_CREATE_ORDER_WITH_INGREDIENTS = 200
+MSG_CREATE_ORDER_WITH_INGREDIENTS = True
+
+CODE_CREATE_ORDER_WITHOUT_INGREDIENTS = 400
+MSG_CREATE_ORDER_WITHOUT_INGREDIENTS = 'Ingredient ids must be provided'
+
+CODE_CREATE_ORDER_FAKE_INGREDIENTS = 500
+
+MSG_GET_ORDERS_NOT_AUTORIZED_USER = 'You should be authorised'
+
+CODE_401 = 401
+
+
+
+
+
+
