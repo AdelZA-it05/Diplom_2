@@ -1,15 +1,9 @@
 import allure
-import pytest
 from faker import Faker
 fake = Faker()
 
-
 import data
 from methods.order_methods import OrderMethods
-
-from conftest import authorize_user
-from conftest import user
-
 
 
 class TestCreateOreder():

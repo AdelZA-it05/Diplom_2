@@ -6,8 +6,6 @@ fake = Faker()
 import data
 from methods.user_methods import UserMethods
 
-from conftest import user
-
 
 class TestLoginUser():
 

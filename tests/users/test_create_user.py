@@ -7,6 +7,7 @@ fake = Faker()
 import data
 from methods.user_methods import UserMethods
 
+
 class TestCreateUser():
 
     @allure.title('Создание пользователя')

@@ -6,6 +6,7 @@ fake = Faker()
 import data
 from methods.user_methods import UserMethods
 
+
 class TestEditUser():
 
     @allure.title('Изменение данных пользователя')
