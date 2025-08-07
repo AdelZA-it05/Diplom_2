@@ -1,34 +1,34 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: http://127.0.0.1:52754/
+Snapshot-Content-Location: http://127.0.0.1:57847/
 Subject: Allure Report
-Date: Tue, 29 Jul 2025 17:42:17 +0300
+Date: Thu, 7 Aug 2025 17:38:31 +0300
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--djG9Fdxr8chGBSsGuLMIbRNsXlnVwnb91g9rFm9U3m----"
+	boundary="----MultipartBoundary--y5dPo0Cryboaa94d1pLKiqGb3N4Rcn0dEVgrB8wSo4----"
 
 
-------MultipartBoundary--djG9Fdxr8chGBSsGuLMIbRNsXlnVwnb91g9rFm9U3m----
+------MultipartBoundary--y5dPo0Cryboaa94d1pLKiqGb3N4Rcn0dEVgrB8wSo4----
 Content-Type: text/html
-Content-ID: <frame-CFF071ABE848BFB28E311C08A9A08936@mhtml.blink>
+Content-ID: <frame-67EF88078033EFBBE1CC7D4C62481D87@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://127.0.0.1:52754/
+Content-Location: http://127.0.0.1:57847/
 
 <!DOCTYPE html><html dir=3D"ltr" lang=3D"en"><head><meta http-equiv=3D"Cont=
 ent-Type" content=3D"text/html; charset=3DUTF-8">
    =20
     <title>Allure Report</title>
-    <link rel=3D"icon" href=3D"http://127.0.0.1:52754/favicon.ico">
-    <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://127.0.0.1:527=
-54/styles.css">
-    <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://127.0.0.1:527=
-54/plugin/screen-diff/styles.css">
+    <link rel=3D"icon" href=3D"http://127.0.0.1:57847/favicon.ico">
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://127.0.0.1:578=
+47/styles.css">
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://127.0.0.1:578=
+47/plugin/screen-diff/styles.css">
 </head>
 <body>
     <div id=3D"alert"></div>
     <div id=3D"content"><div class=3D"app"><div class=3D"app__nav"><div cla=
 ss=3D"side-nav"><div class=3D"side-nav__head">
-    <a href=3D"http://127.0.0.1:52754/#" class=3D"side-nav__brand" data-ga4=
+    <a href=3D"http://127.0.0.1:57847/#" class=3D"side-nav__brand" data-ga4=
 -event=3D"home_click">
         <span class=3D"side-nav__brand-text">Allure</span>
     </a>
@@ -36,7 +36,7 @@ ss=3D"side-nav"><div class=3D"side-nav__head">
 <ul class=3D"side-nav__menu">
         <li class=3D"side-nav__item" data-tooltip=3D"Overview" data-ga4-eve=
 nt=3D"tab_click" data-ga4-param-tab=3D"">
-            <a href=3D"http://127.0.0.1:52754/#" class=3D"side-nav__link si=
+            <a href=3D"http://127.0.0.1:57847/#" class=3D"side-nav__link si=
 de-nav__link_active">
                 <span class=3D"side-nav__icon fa fa-home"></span>
                 <div class=3D"side-nav__text">Overview</div>
@@ -44,7 +44,7 @@ de-nav__link_active">
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Categories" data-ga4-e=
 vent=3D"tab_click" data-ga4-param-tab=3D"categories">
-            <a href=3D"http://127.0.0.1:52754/#categories" class=3D"side-na=
+            <a href=3D"http://127.0.0.1:57847/#categories" class=3D"side-na=
 v__link">
                 <span class=3D"side-nav__icon fa fa-flag"></span>
                 <div class=3D"side-nav__text">Categories</div>
@@ -52,7 +52,7 @@ v__link">
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Suites" data-ga4-event=
 =3D"tab_click" data-ga4-param-tab=3D"suites">
-            <a href=3D"http://127.0.0.1:52754/#suites" class=3D"side-nav__l=
+            <a href=3D"http://127.0.0.1:57847/#suites" class=3D"side-nav__l=
 ink">
                 <span class=3D"side-nav__icon fa fa-briefcase"></span>
                 <div class=3D"side-nav__text">Suites</div>
@@ -60,7 +60,7 @@ ink">
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Graphs" data-ga4-event=
 =3D"tab_click" data-ga4-param-tab=3D"graph">
-            <a href=3D"http://127.0.0.1:52754/#graph" class=3D"side-nav__li=
+            <a href=3D"http://127.0.0.1:57847/#graph" class=3D"side-nav__li=
 nk">
                 <span class=3D"side-nav__icon fa fa-bar-chart"></span>
                 <div class=3D"side-nav__text">Graphs</div>
@@ -68,7 +68,7 @@ nk">
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Timeline" data-ga4-eve=
 nt=3D"tab_click" data-ga4-param-tab=3D"timeline">
-            <a href=3D"http://127.0.0.1:52754/#timeline" class=3D"side-nav_=
+            <a href=3D"http://127.0.0.1:57847/#timeline" class=3D"side-nav_=
 _link">
                 <span class=3D"side-nav__icon fa fa-clock-o"></span>
                 <div class=3D"side-nav__text">Timeline</div>
@@ -76,7 +76,7 @@ _link">
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Behaviors" data-ga4-ev=
 ent=3D"tab_click" data-ga4-param-tab=3D"behaviors">
-            <a href=3D"http://127.0.0.1:52754/#behaviors" class=3D"side-nav=
+            <a href=3D"http://127.0.0.1:57847/#behaviors" class=3D"side-nav=
 __link">
                 <span class=3D"side-nav__icon fa fa-list"></span>
                 <div class=3D"side-nav__text">Behaviors</div>
@@ -84,7 +84,7 @@ __link">
         </li>
         <li class=3D"side-nav__item" data-tooltip=3D"Packages" data-ga4-eve=
 nt=3D"tab_click" data-ga4-param-tab=3D"packages">
-            <a href=3D"http://127.0.0.1:52754/#packages" class=3D"side-nav_=
+            <a href=3D"http://127.0.0.1:57847/#packages" class=3D"side-nav_=
 _link">
                 <span class=3D"side-nav__icon fa fa-align-left"></span>
                 <div class=3D"side-nav__text">Packages</div>
@@ -118,13 +118,13 @@ ts-grid__col"><div class=3D"widget island" data-id=3D"summary">
     <div class=3D"widget__body"><div><div class=3D"widget__flex-line">
     <div class=3D"widget__column">
         <h2 class=3D"widget__title">
-                Allure Report 7/29/2025
+                Allure Report 8/7/2025
             <div class=3D"widget__subtitle">
-                17:25:15 - 17:25:29 (14s 256ms)
+                17:25:23 - 17:36:32 (9d 00h)
             </div>
         </h2>
         <div class=3D"summary-widget__stats splash">
-            <div class=3D"splash__title">22</div>
+            <div class=3D"splash__title">30</div>
             <div class=3D"splash__subtitle">test cases</div>
         </div>
     </div>
@@ -149,15 +149,15 @@ hart__caption" dy=3D"0.4em" style=3D"font-size: 36.9358px;">100%</text></g>
     <span class=3D"widget__subtitle">2 items total</span>
 </h2>
 <div class=3D"table table_hover widget__table">
-        <a class=3D"table__row" href=3D"http://127.0.0.1:52754/#suites/8fd6=
+        <a class=3D"table__row" href=3D"http://127.0.0.1:57847/#suites/8fd6=
 1cecdadf8db7d4a5bc4e9f4d7b7f">
             <div class=3D"table__col">tests.users</div>
             <div class=3D"table__col">
                 <div class=3D"bar"><div class=3D"bar__fill bar__fill_status=
-_passed" style=3D"flex-grow: 15">15</div></div>
+_passed" style=3D"flex-grow: 23">23</div></div>
             </div>
         </a>
-        <a class=3D"table__row" href=3D"http://127.0.0.1:52754/#suites/d284=
+        <a class=3D"table__row" href=3D"http://127.0.0.1:57847/#suites/d284=
 3b88787985019921a7e1de0b919a">
             <div class=3D"table__col">tests.oeders</div>
             <div class=3D"table__col">
@@ -165,7 +165,7 @@ _passed" style=3D"flex-grow: 15">15</div></div>
 _passed" style=3D"flex-grow: 7">7</div></div>
             </div>
         </a>
-        <a class=3D"table__row" href=3D"http://127.0.0.1:52754/#suites">
+        <a class=3D"table__row" href=3D"http://127.0.0.1:57847/#suites">
             <div class=3D"table__col table__col_center">
                 Show all
             </div>
@@ -187,10 +187,10 @@ _passed" style=3D"flex-grow: 7">7</div></div>
     </div>
     <div class=3D"widget__body"><div><h2 class=3D"widget__title">
     Features by stories
-    <span class=3D"widget__subtitle">22 items total</span>
+    <span class=3D"widget__subtitle">30 items total</span>
 </h2>
 <div class=3D"table table_hover widget__table">
-        <a class=3D"table__row" href=3D"http://127.0.0.1:52754/#behaviors">
+        <a class=3D"table__row" href=3D"http://127.0.0.1:57847/#behaviors">
             <div class=3D"table__col table__col_center">
                 Show all
             </div>
@@ -218,7 +218,7 @@ re is nothing to show</div></div></div>
     <span class=3D"widget__subtitle">0 items total</span>
 </h2>
 <div class=3D"table table_hover widget__table">
-        <a class=3D"table__row" href=3D"http://127.0.0.1:52754/#categories"=
+        <a class=3D"table__row" href=3D"http://127.0.0.1:57847/#categories"=
 >
             <div class=3D"table__col table__col_center">
                 Show all
@@ -253,10 +253,10 @@ re is nothing to show</div></div></div>
 
 
 </body></html>
-------MultipartBoundary--djG9Fdxr8chGBSsGuLMIbRNsXlnVwnb91g9rFm9U3m----
+------MultipartBoundary--y5dPo0Cryboaa94d1pLKiqGb3N4Rcn0dEVgrB8wSo4----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://127.0.0.1:52754/plugin/screen-diff/styles.css
+Content-Location: http://127.0.0.1:57847/plugin/screen-diff/styles.css
 
 @charset "utf-8";
 
@@ -273,10 +273,10 @@ b(255, 255, 255); position: absolute; overflow: hidden; box-shadow: rgb(170=
 , 170, 170) 2px 0px 1px -1px; }
 
 .screen-diff-error { color: rgb(253, 90, 62); }
-------MultipartBoundary--djG9Fdxr8chGBSsGuLMIbRNsXlnVwnb91g9rFm9U3m----
+------MultipartBoundary--y5dPo0Cryboaa94d1pLKiqGb3N4Rcn0dEVgrB8wSo4----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: http://127.0.0.1:52754/styles.css
+Content-Location: http://127.0.0.1:57847/styles.css
 
 @charset "utf-8";
 
@@ -9630,4 +9630,4 @@ _chart > div { padding-top: 50%; position: relative; }
 .environment__key { color: rgb(153, 153, 153); }
 
 .testresult-link:not(:last-child)::after { content: ","; }
-------MultipartBoundary--djG9Fdxr8chGBSsGuLMIbRNsXlnVwnb91g9rFm9U3m------
+------MultipartBoundary--y5dPo0Cryboaa94d1pLKiqGb3N4Rcn0dEVgrB8wSo4------
